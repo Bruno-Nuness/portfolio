@@ -58,6 +58,10 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
+              A developer in career transition, 
+              I'm 28 years old, focused on learning and developing skills in both frontend and backend. 
+              I am excited to embark on this transitional journey and ready to acquire new knowledge. 
+              Let's build something amazing together!
               Discover here in this environment, created especially for you, all
               my projects and technologies
             </Text>
